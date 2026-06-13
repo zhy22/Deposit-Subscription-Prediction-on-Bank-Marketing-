@@ -1,7 +1,8 @@
 <!-- ===== HEADER BANNER ===== -->
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20,30&height=240&section=header&text=Project-2&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=End-to-End%20Data%20Analysis%20%26%20Machine%20Learning%20Pipeline&descAlignY=58&descSize=16)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=240&section=header&text=Book%20Page%20Digitisation%20Pipeline&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Scanned%20Pages%20→%20Spoken%20Audio%20·%20CV%20+%20OCR%20+%20VLM%20+%20TTS&descAlignY=58&descSize=15)
+
 
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
